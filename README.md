@@ -1,4 +1,4 @@
-# Code for paper “EEG-based Emotion Recognition Using Convolutional Neural Network with Functional Connections"
+# Code for paper “EEG-based Emotion Recognition Using CNN with Functional Connections"
 
 ## Dependencies
 - python 3.7
