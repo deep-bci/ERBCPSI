@@ -12,4 +12,6 @@
 
 ## Usage
 
-- run the file train.py directly. 
+- you can caculate the PSI by the files in the "PSI" directory
+- modify the directory path in "train.py"
+- run the file "train.py"
